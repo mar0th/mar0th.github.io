@@ -98,3 +98,26 @@ Reicht für ca. 10 Waffeln.
 * 1 Prise Salz
 
 Zuerst Eier, Zucker und Vanillezucker mit einem Handrührgerät auf höchster Stufe verrühren. Anschließend Margarine hinzufügen und kurz verrühren. Abschließend Backpulver, Mehl, Milch und Salz gemeinsam hinzufügen, mixen und portionsweise im gefetteten Waffeleisen goldgelb backen.
+
+## Brownies (recette de Régine) ##
+
+Ingrédients:
+* 150 g beurre
+* 150 g chocolat crémant
+* 4 oeufs
+* 300 g sucre
+* 175 g farine
+* 1 sachet sucre vanillé
+* 1 c.c. poudre à lever
+* 1 pincée de sel
+* 100-150 g noix grossièrement moulues
+
+Préparation:
+– préchauffer le four à 175°C
+– faire fondre le beurre et le chocolat et les laisser refroidir
+– dans un bol, battre les oeufs et ajouter le sucre
+– incorporer la farine, le sucre vanillé, la poudre à lever, le sel et les noix
+– ajouter le chocolat/beurre fondus
+– étaler la pâte sur une plaque beurrée (ou recouverte de papier cuisson) de 20 x 40 cm env. afin d’obtenir une épaisseur d’env. 2-3 cm
+– cuire pendant +/- 25 min (la pâte doit être humide à l’intérieur)
+– découper en carrés pendant que c’est encore chaud
