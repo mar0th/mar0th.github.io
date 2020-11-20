@@ -45,8 +45,7 @@ jobs:
         shell: bash
       - name: Push changes
         if: steps.commit.outputs.push == 'true'
-        uses: actions-js/push@master
-        
+        uses: actions-js/push@master        
         with:
            github_token: ${{ secrets.GIT_TOKEN }}
            branch: 'main'
