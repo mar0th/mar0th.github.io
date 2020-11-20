@@ -3,7 +3,7 @@
 [Download epub version](kochbuch.epub)
 
 ## Blini ##
-Ergibt ca. 14 Blinis
+Ergibt ca. 14 Blinis test
 
 * 300 ml Milch
 * 10 g frische Hefe
