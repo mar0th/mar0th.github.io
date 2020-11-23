@@ -19,7 +19,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@master
+        with:
+          ref: ${{ github.head_ref }}
 
       # install pandoc
       - name: install pandoc
@@ -30,23 +32,6 @@ jobs:
         run: ./convert.sh
               
       # commit epub  
-      - name: Commit files
-        id: commit
-        run: |
-          git config --local user.email "maroth@student.ethz.ch"
-          git config --local user.name "mar0th"
-          git add --all
-          if [-z "$(git status --porcelain)"]; then
-             echo "::set-output name=push::false"
-          else
-             git commit -m "Add changes" -a
-             echo "::set-output name=push::true"
-          fi
-        shell: bash
-      - name: Push changes
-        if: steps.commit.outputs.push == 'true'
-        uses: actions-js/push@master
-        
+      - uses: stefanzweifel/git-auto-commit-action@v4      
         with:
-           github_token: ${{ secrets.GIT_TOKEN }}
-           branch: 'main'
+          commit_message: updated html and epub
