@@ -117,11 +117,39 @@ Ingrédients:
 
 Préparation:
 
-– préchauffer le four à 175°C
-– faire fondre le beurre et le chocolat et les laisser refroidir
-– dans un bol, battre les oeufs et ajouter le sucre
-– incorporer la farine, le sucre vanillé, la poudre à lever, le sel et les noix
-– ajouter le chocolat/beurre fondus
-– étaler la pâte sur une plaque beurrée (ou recouverte de papier cuisson) de 20 x 40 cm env. afin d’obtenir une épaisseur d’env. 2-3 cm
-– cuire pendant +/- 25 min (la pâte doit être humide à l’intérieur)
-– découper en carrés pendant que c’est encore chaud
+* préchauffer le four à 175°C
+* faire fondre le beurre et le chocolat et les laisser refroidir
+* dans un bol, battre les oeufs et ajouter le sucre
+* incorporer la farine, le sucre vanillé, la poudre à lever, le sel et les noix
+* ajouter le chocolat/beurre fondus
+* étaler la pâte sur une plaque beurrée (ou recouverte de papier cuisson) de 20 x 40 cm env. afin d’obtenir une épaisseur d’env. 2-3 cm
+* cuire pendant +/- 25 min (la pâte doit être humide à l’intérieur)
+* découper en carrés pendant que c’est encore chaud
+
+# Kochen
+
+## Scharfe Rindfleischstreifen
+
+Für 2 Personen
+
+### Fleisch
+
+* j½ EL Öl zum Braten
+* 300 g Rindsplätzli (à la minute), in Streifen
+* ¼ TL Salz
+* wenig Pfeffer
+
+Öl in einer Bratpfanne heiss werden lassen. Fleisch beigeben, ca. 3 Min. rührbraten, würzen, herausnehmen, warm stellen.
+
+### Gemüse
+
+
+* ½ EL Öl zum Braten
+* 300 g Süsskartoffeln, in Würfeli
+* 150 g Broccoli, in Röschen
+* 1 dl Wasser
+* ¼ TL Salz
+* wenig Pfeffer
+* 2 TL Hot Chili Sauce (z.B. Sriracha)
+
+Öl in derselben Pfanne erwärmen. Kartoffeln und Broccoli beigeben, ca. 2 Min. andämpfen. Wasser dazugiessen, aufkochen, würzen. HItze reduzieren, zugedeckt ca. 5 Min. köcheln. Fleisch wieder beigeben, Hot Chili Sauce darunterrühren, nur noch warm werden lassen.
