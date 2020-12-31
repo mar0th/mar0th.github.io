@@ -126,6 +126,21 @@ Préparation:
 * cuire pendant +/- 25 min (la pâte doit être humide à l’intérieur)
 * découper en carrés pendant que c’est encore chaud
 
+\newpage
+
+## Brioche vegane
+Pour 5 à 6 personnes :
+- 150mL lait végetal ou eau
+- 320g farine de blé ou de GRAND épeautre BLANCHE
+- 60g sirop d'agave ou sucre blanc ou complet en grain
+- 65g huile
+- 1 sachet de levure de boulanger séche (ou 15g levure de boulanger fraîche)
+
+Et voilà cest tout ! Il est très important d'avoir de la farine blanche. Rdv en story à la une Brioche 3 Ing pour les détails et les instructions hyper simples vous verrez !
+Et pas de panique si vous êtes confiné seul.e, vous pouvez congeler cette brioche tranchée une fois refroidie et la réchauffer au four chaque matin pour le petit dej ou le goûter!
+
+\newpage
+
 # Kochen
 
 ## Scharfe Rindfleischstreifen
