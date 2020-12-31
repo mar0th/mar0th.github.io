@@ -129,7 +129,8 @@ Préparation:
 \newpage
 
 ## Brioche vegane
-Pour 5 à 6 personnes :
+Pour 5 à 6 personnes:
+
 * 150mL lait végetal ou eau
 * 320g farine de blé ou de GRAND épeautre BLANCHE
 * 60g sirop d'agave ou sucre blanc ou complet en grain
