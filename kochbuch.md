@@ -129,6 +129,7 @@ Préparation:
 \newpage
 
 ## Brioche vegane
+
 Pour 5 à 6 personnes:
 
 * 150mL lait végetal ou eau
@@ -137,8 +138,24 @@ Pour 5 à 6 personnes:
 * 65g huile
 * 1 sachet de levure de boulanger séche (ou 15g levure de boulanger fraîche)
 
-Et voilà cest tout ! Il est très important d'avoir de la farine blanche. Rdv en story à la une Brioche 3 Ing pour les détails et les instructions hyper simples vous verrez !
-Et pas de panique si vous êtes confiné seul.e, vous pouvez congeler cette brioche tranchée une fois refroidie et la réchauffer au four chaque matin pour le petit dej ou le goûter!
+
+* Réhydratez la levure en la mélangeant avec le sirop d'agave et l'eau tiède mais pas chaude (attention à ne pas tuer la levure). Si vous utilisez de la levure fraîche émiettez la également dans l'eau avec le sirop. Si vous prenez un autre sucrant que ceux indiqués le résultat sera différent. Laissez reposer 15 minutes.
+
+* Si vous faites la brioche à la main mélangez la farine et le sel. Faites un puit et versez-y le mélange avec la levure ainsi que l'huile de coco liquide mais pas chaude. Pétrissez jusqu'à obtenir une pâte élastique et homogène. Si vous utilisez une autre farine ou de la farine non blanche le résultat sera altéré.
+
+* Si vous avez un robot pétrin ou un robot mixeur avec grande lame en S versez-y le mélange avec la levure, puis la farine, puis le sel. Faites tourner pendant environ 5 minutes en laissant entrer de l'air. Ajoutez ensuite l'huile liquide mais pas chaude ou la margarine ramollie puis faites tourner à nouveau pendant deux fois 5 minutes avec 1 minute de repos entre les deux.
+
+* Faites une boule avec la pâte, déposez dans un grand bol, couvrez et laissez reposer dans un endroit sec et chaud de votre maison JUSQU'À CE QUE LA PÂTE DOUBLE DE VOLUME. Cela prend au minimum 2h30.
+
+* Dégazez la pâte. Évitez d'y ajoutez de la farine vous verrez ce n'est pas si collant. Farinez juste le plan de travail si nécessaire pour la version huile, puis séparez la pâte en 3. Roulez chaque pâton entre vos mains pour faire 3 boudins épais que vous poserez sur le plan de travail.
+
+* Lissez les boudins avec les mains s'ils ont des imperfections. Scellez les boudins d'un côté, faites une natte en évitant de tirer sur les boudins puis scellez l'extrémité. Laissez la natte sur la plaque ou mettez la dans un moule rectangulaire.
+
+* Laissez pousser à nouveau à couvert dans un endroit sec et chaud de la maison pendant 30 minutes à 1h le temps de redémarrer la pousse. Entre temps préchauffez le four à 180°C sur le mode convection naturelle (four traditionnel).
+
+* Mettez une dorure végétale faites par exemple d'un mélange de sirop d'agave et de yaourt de soja (ou lait de soja ou eau). Enfournez pendant environ 25 minutes pour la version avec l'huile et environ 35 minutes pour la version avec la margarine.
+
+* Laissez refroidir sur une grille avant de couper et de déguster. La brioche étant sans oeuf ni beurre, n'hésitez pas à la congeler en tranches si vous comptez la déguster le lendemain ou les jours suivants afin d'éviter quelle ne sèche.
 
 \newpage
 
